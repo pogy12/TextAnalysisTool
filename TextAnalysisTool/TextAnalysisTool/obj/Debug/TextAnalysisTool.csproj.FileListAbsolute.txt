@@ -1,0 +1,7 @@
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\obj\Debug\TextAnalysisTool.csproj.AssemblyReference.cache
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\obj\Debug\TextAnalysisTool.csproj.CoreCompileInputs.cache
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\bin\Debug\TextAnalysisTool.exe.config
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\bin\Debug\TextAnalysisTool.exe
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\bin\Debug\TextAnalysisTool.pdb
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\obj\Debug\TextAnalysisTool.exe
+C:\Users\tudno\source\repos\TextAnalysisTool\TextAnalysisTool\obj\Debug\TextAnalysisTool.pdb
